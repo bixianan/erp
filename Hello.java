@@ -3,5 +3,6 @@ public class Hello{
           System.out.println("Hello word!");
           System.out.println("我是BB!");
           System.out.println("啦啦");
+          System.out.println("师姐你好");
     }
 }
